@@ -1,0 +1,75 @@
+[
+  {
+    "FirstName": "Marian",
+    "LastName": " Reilly",
+    "UserName": "marian1reilly@rod1eology.com",
+    "Email": "marianreilly@rodeology.com",
+    "PhoneNumber": "(810) 557-2569",
+    "Gender": "female",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Carolyn",
+    "LastName": " Berger",
+    "UserName": "carolynberger@rod1eology.com",
+    "Email": "carolynberger@rodeology.com",
+    "PhoneNumber": "(858) 545-2253",
+    "Gender": "female",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Barnes",
+    "LastName": " Cameron",
+    "UserName": "barnescameron@ro1deology.com",
+    "Email": "barnescameron@rodeology.com",
+    "PhoneNumber": "(920) 575-2043",
+    "Gender": "male",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Angelina",
+    "LastName": " Sweeney",
+    "UserName": "angelina1sweeney@rode1ology.com",
+    "Email": "angelinasweeney@rodeology.com",
+    "PhoneNumber": "(980) 581-3003",
+    "Gender": "female",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Hewitt",
+    "LastName": " Maldonado",
+    "UserName": "hewittma1ldonado@r1odeology.com",
+    "Email": "hewittmaldonado@rodeology.com",
+    "PhoneNumber": "(817) 560-2774",
+    "Gender": "male",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Rowe",
+    "LastName": " Walls",
+    "UserName": "row3ewalls@ro1deology.com",
+    "Email": "rowewalls@rodeology.com",
+    "PhoneNumber": "(867) 414-3783",
+    "Gender": "male",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "FirstName": "Nannie",
+    "LastName": " Fischer",
+    "UserName": "nanniefi8scher@rodeo1logy.com",
+    "Email": "nanniefischer@rodeology.com",
+    "PhoneNumber": "(833) 578-3342",
+    "Gender": "female",
+    "AvarTarUrl": "http://placehold.it/32x32"
+  },
+  {
+    "AvarTarUrl": "http://placehold.it/32x32",
+    "Email": "flowersmelton@rode1ology.com",
+    "FirstName": "Flowers",
+    "Gender": "male",
+    "LastName": " Melton",
+    "PhoneNumber": "(958) 401-3908",
+    "UserName": "flowers5melton@rodeology.com"
+  }
+ 
+]

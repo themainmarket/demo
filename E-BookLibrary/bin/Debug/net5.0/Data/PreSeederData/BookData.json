@@ -1,0 +1,346 @@
+[
+  {
+    "Id": "60b2e681f817203d95ba5070",
+    "Title": "labore magna ex",
+    "Author": "Johnston Wallace",
+    "Publisher": "Tania Norman",
+    "ISBN": "16-12-1973",
+    "Pages": 141,
+    "Description": "aliquip nostrud do nisi pariatur amet dolore do nulla duis",
+    "AvailableCopies": 16,
+    "SubCategory": "Drama",
+    "Review": [
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      },
+      {
+        "BookId": "60b2e681f817203d95ba5070"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e6815ebc52792723ef67",
+    "Title": "consequat id veniam",
+    "Author": "Duffy Glenn",
+    "Publisher": "Bettie Osborn",
+    "ISBN": "05-03-2011",
+    "Pages": 375,
+    "Description": "exercitation eu amet laboris mollit veniam exercitation tempor reprehenderit incididunt",
+    "AvailableCopies": 18,
+    "SubCategory": "Horror",
+    "Review": [
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      },
+      {
+        "BookId": "60b2e6815ebc52792723ef67"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e681f66ae41024ef013c",
+    "Title": "voluptate id proident",
+    "Author": "Baker Sampson",
+    "Publisher": "Page Ross",
+    "ISBN": "24-01-2006",
+    "Pages": 222,
+    "Description": "laboris consectetur pariatur amet magna minim excepteur sunt culpa incididunt",
+    "AvailableCopies": 6,
+    "SubCategory": "Mystery",
+    "Review": [
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      },
+      {
+        "BookId": "60b2e681f66ae41024ef013c"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e6817811042f959f82a2",
+    "Title": "ullamco velit id",
+    "Author": "Jodi Stevenson",
+    "Publisher": "Gracie Curry",
+    "ISBN": "27-11-1993",
+    "Pages": 169,
+    "Description": "duis sit ea eiusmod aliquip ipsum reprehenderit magna velit in",
+    "AvailableCopies": 19,
+    "SubCategory": "Horror",
+    "Review": [
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      },
+      {
+        "BookId": "60b2e6817811042f959f82a2"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e68169afad4735ca979f",
+    "Title": "enim id et",
+    "Author": "Ollie Boyd",
+    "Publisher": "Naomi Sawyer",
+    "ISBN": "11-03-1977",
+    "Pages": 163,
+    "Description": "eiusmod in labore anim pariatur Lorem aute elit esse laboris",
+    "AvailableCopies": 9,
+    "SubCategory": "Mystery",
+    "Review": [
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      },
+      {
+        "BookId": "60b2e68169afad4735ca979f"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e681ccb34f5a395290f1",
+    "Title": "occaecat irure amet",
+    "Author": "Rebekah Booth",
+    "Publisher": "Janet Guzman",
+    "ISBN": "14-08-2015",
+    "Pages": 404,
+    "Description": "eu minim proident minim commodo culpa nostrud tempor adipisicing et",
+    "AvailableCopies": 7,
+    "SubCategory": "Mystery",
+    "Review": [
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      },
+      {
+        "BookId": "60b2e681ccb34f5a395290f1"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e681aaa0da5435cf3c08",
+    "Title": "do sit incididunt",
+    "Author": "Tamra Morin",
+    "Publisher": "Velma Allen",
+    "ISBN": "15-07-1996",
+    "Pages": 161,
+    "Description": "enim adipisicing fugiat culpa ipsum velit anim enim Lorem dolor",
+    "AvailableCopies": 15,
+    "SubCategory": "Drama",
+    "Review": [
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      },
+      {
+        "BookId": "60b2e681aaa0da5435cf3c08"
+      }
+    ]
+  },
+  {
+    "Id": "60b2e681a581b91638b01819",
+    "Title": "quis deserunt id",
+    "Author": "Nieves Williams",
+    "Publisher": "Fuller Fletcher",
+    "ISBN": "03-08-1982",
+    "Pages": 159,
+    "Description": "ullamco velit do magna commodo Lorem eu Lorem tempor officia",
+    "AvailableCopies": 22,
+    "SubCategory": "Drama",
+    "Review": [
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      },
+      {
+        "BookId": "60b2e681a581b91638b01819"
+      }
+    ]
+  }
+]
