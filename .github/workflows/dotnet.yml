@@ -21,6 +21,10 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
       working-directory: ./E-BookLibrary
-      heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-      heroku_app_name: ${{secrets.HEROKU_APP_NAME}} #Must be unique in Heroku
-      heroku_email: "angeloakuhwa@gmail.com"
+      env:
+        heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+        heroku_app_name: ${{secrets.HEROKU_APP_NAME}}
+        run: |
+          docker login --username=_ --password=$heroku_api_key registry.heroku.com
+          heroku container:push web -a $heroku_app_name
+          heroku container:release web -a $heroku_app_name
